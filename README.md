@@ -31,6 +31,7 @@ pharmaceutical sciences, cybersecurity, and software engineering.
 </p>
 
 🌐 Know more about me 
+<p>
 <a href="https://orcid.org/0009-0006-8424-0643">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
