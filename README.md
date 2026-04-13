@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- HEADER --><h1 align="center">Vineet Pratap Singh</h1>
+<p align="center">
+B.Pharm Student • Cybersecurity • Software Development
+</p><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Pharma+Tech+Innovator;Full+Stack+Developer;Digital+Forensics+Learner" />
+</p>---
 
-<!--
-**psvineet/psvineet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About
 
-Here are some ideas to get you started:
+Focused on building secure healthcare systems combining
+pharmaceutical sciences, cybersecurity, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,linux,git,github,vscode" />
+</p>---
+
+📊 GitHub Analytics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=psvineet&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=psvineet&theme=tokyo-night&hide_border=true"/>
+</p>
+
+🌐 Connect
+
+<p align="center">
+<a href="https://github.com/psvineet">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://orcid.org/0009-0006-8424-0643">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+Building secure, data-driven healthcare systems
+</p>
