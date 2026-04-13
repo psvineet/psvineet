@@ -30,12 +30,7 @@ pharmaceutical sciences, cybersecurity, and software engineering.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=psvineet&theme=tokyo-night&hide_border=true"/>
 </p>
 
-🌐 Connect
-
-<p align="center">
-<a href="https://github.com/psvineet">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+🌐 Know more about me 
 <a href="https://orcid.org/0009-0006-8424-0643">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
