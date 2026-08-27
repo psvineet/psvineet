@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Pharm%20Student-1A3A5C?style=flat-square&logo=bookstack&logoColor=white" alt="B.Pharm Student" />
   <img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=flat-square&logo=security&logoColor=black" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Software%20Development-FF6B6B?style=flat-square&logo=code&logoColor=white" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Software%20Development-FF6B6B?style=flat-square&logo=code&logoColor=white" alt="Full-Stack Developer" />
 </p>
 
 ```python
