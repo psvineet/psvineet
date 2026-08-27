@@ -57,7 +57,7 @@ class Vineet:
             ]
         }
 
-        self.current_goal = "Building secure healthcare systems"
+        self.current_goal = "Building secure healthcare and security systems"
 ```
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,go,linux,git,github,vscode,mysql,figma" alt="Tech Stack" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /> </p>
